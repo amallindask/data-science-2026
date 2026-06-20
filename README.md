@@ -58,3 +58,7 @@ Topik : Regresi Linear untuk Prediksi Gaji
     <li style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;line-height:115%;font-size:16px;font-family:"Aptos",sans-serif;'>Buka file notebook yang ingin dijalankan.</li>
 </ol>
 <p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;line-height:115%;font-size:16px;font-family:"Aptos",sans-serif;'>&nbsp;</p>
+
+<h2>Kesimpulan Umum</h2>
+<p>Praktikum Data Science yang dilaksanakan dari pertemuan 1 hingga 7 memberikan pemahaman mengenai proses pengolahan data secara bertahap, mulai dari pengenalan data, pembersihan data, eksplorasi dan visualisasi, hingga penerapan model machine learning sederhana. Setiap materi membantu saya memahami bagaimana data dapat dianalisis untuk menghasilkan informasi yang lebih bermakna.</p>
+<p>Selain menambah pengetahuan teoritis, praktikum ini juga melatih keterampilan penggunaan berbagai tools dan library Python dalam menyelesaikan permasalahan berbasis data. Pengalaman yang diperoleh selama praktikum menjadi bekal yang bermanfaat untuk mempelajari topik Data Science yang lebih lanjut serta meningkatkan kemampuan analisis dan pemecahan masalah menggunakan data.</p>
