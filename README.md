@@ -27,13 +27,34 @@ Topik :Data Preprocessing untuk Machine Learning
 <h3>PERTEMUAN 7</h3>
 Topik : Regresi Linear untuk Prediksi Gaji
 <br>Link :https://github.com/amallindask/data-science-2026/blob/main/Pertemuan7_Amallinda_250401020003.ipynb
-<h3>Tools dan Library yang Digunakan :</h3>
-Python
-<br>Pandas
-<br>NumPy
-<br>Matplotlib
-<br>Seaborn
-<br>Scikit-learn
-<br>SciPy
-<br>Google Colab
-<br>Jupyter Notebook
+<h3 style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;line-height:115%;font-size:16px;font-family:"Aptos",sans-serif;'><strong>Tools dan Library yang Digunakan</strong></h3>
+<ul style="margin-bottom:0cm;margin-top:0cm;" type="disc">
+    <li style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;line-height:115%;font-size:16px;font-family:"Aptos",sans-serif;'>Python</li>
+    <li style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;line-height:115%;font-size:16px;font-family:"Aptos",sans-serif;'>Pandas</li>
+    <li style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;line-height:115%;font-size:16px;font-family:"Aptos",sans-serif;'>NumPy</li>
+    <li style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;line-height:115%;font-size:16px;font-family:"Aptos",sans-serif;'>Matplotlib</li>
+    <li style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;line-height:115%;font-size:16px;font-family:"Aptos",sans-serif;'>Seaborn</li>
+    <li style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;line-height:115%;font-size:16px;font-family:"Aptos",sans-serif;'>Scikit-learn</li>
+    <li style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;line-height:115%;font-size:16px;font-family:"Aptos",sans-serif;'>SciPy</li>
+    <li style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;line-height:115%;font-size:16px;font-family:"Aptos",sans-serif;'>Google Colab</li>
+    <li style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;line-height:115%;font-size:16px;font-family:"Aptos",sans-serif;'>Jupyter Notebook</li>
+</ul>
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;line-height:115%;font-size:16px;font-family:"Aptos",sans-serif;'><strong>Cara Menjalankan Notebook : </strong></p>
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;line-height:115%;font-size:16px;font-family:"Aptos",sans-serif;'><strong>A. Menggunakan Google Colab</strong></p>
+<ol style="margin-bottom:0cm;margin-top:0cm;" start="1" type="1">
+    <li style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;line-height:115%;font-size:16px;font-family:"Aptos",sans-serif;'>Buka notebook yang diinginkan.</li>
+    <li style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;line-height:115%;font-size:16px;font-family:"Aptos",sans-serif;'>Klik tombol <strong>Open in Colab</strong> atau unggah file .ipynb ke Google Colab.</li>
+    <li style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;line-height:115%;font-size:16px;font-family:"Aptos",sans-serif;'>Jalankan setiap sel secara berurutan.</li>
+</ol>
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;line-height:115%;font-size:16px;font-family:"Aptos",sans-serif;'><strong>B. Menjalankan Secara Lokal</strong></p>
+<ol style="margin-bottom:0cm;margin-top:0cm;" start="1" type="1">
+    <li style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;line-height:115%;font-size:16px;font-family:"Aptos",sans-serif;'>Install Python 3.</li>
+    <li style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;line-height:115%;font-size:16px;font-family:"Aptos",sans-serif;'>Install library yang diperlukan: pip install pandas numpy matplotlib seaborn scikit-learn scip</li>
+</ol>
+<ol style="margin-bottom:0cm;margin-top:0cm;" start="3" type="1">
+    <li style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;line-height:115%;font-size:16px;font-family:"Aptos",sans-serif;'>Jalankan Jupyter Notebook: jupyter notebook</li>
+</ol>
+<ol style="margin-bottom:0cm;margin-top:0cm;" start="4" type="1">
+    <li style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;line-height:115%;font-size:16px;font-family:"Aptos",sans-serif;'>Buka file notebook yang ingin dijalankan.</li>
+</ol>
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;line-height:115%;font-size:16px;font-family:"Aptos",sans-serif;'>&nbsp;</p>
