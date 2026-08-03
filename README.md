@@ -26,7 +26,22 @@ Topik :Data Preprocessing untuk Machine Learning
 <br>Link : https://github.com/amallindask/data-science-2026/blob/main/Pertemuan6_Amallinda_250401020003.ipynb
 <h3>PERTEMUAN 7</h3>
 Topik : Regresi Linear untuk Prediksi Gaji
-<br>Link :https://github.com/amallindask/data-science-2026/blob/main/Pertemuan7_Amallinda_250401020003.ipynb
+<br>Link : https://github.com/amallindask/data-science-2026/blob/main/Pertemuan7_Amallinda_250401020003.ipynb
+<h3>PERTEMUAN 9</h3>
+Topik : Algoritma Klasifikasi (Bagian 1)
+<br>Link : https://github.com/amallindask/data-science-2026/blob/main/Pertemuan9_Amallinda_250401020003.ipynb
+<h3>PERTEMUAN 10</h3>
+Topik : Algoritma Klasifikasi (Bagian 2)
+<br>Link : https://github.com/amallindask/data-science-2026/blob/main/Pertemuan10_Amallinda_250401020003.ipynb
+<h3>PERTEMUAN 11</h3>
+Topik : Unsupervised Learning (Clustering)
+<br>Link : https://github.com/amallindask/data-science-2026/blob/main/Pertemuan11_Amallinda_250401020003.ipynb
+<h3>PERTEMUAN 12</h3>
+Topik : Asosiasi Data & Sistem Rekomendasi Dasar
+<br>Link : https://github.com/amallindask/data-science-2026/blob/main/Pertemuan12_Amallinda_250401020003.ipynb
+<h3>PERTEMUAN 13</h3>
+Topik : Pengantar Deep Learning & NLP Dasar
+<br>Link : https://github.com/amallindask/data-science-2026/blob/main/Pertemuan13_Amallinda_250401020003.ipynb
 <h3 style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;line-height:115%;font-size:16px;font-family:"Aptos",sans-serif;'><strong>Tools dan Library yang Digunakan</strong></h3>
 <ul style="margin-bottom:0cm;margin-top:0cm;" type="disc">
     <li style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;line-height:115%;font-size:16px;font-family:"Aptos",sans-serif;'>Python</li>
